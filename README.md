@@ -54,9 +54,9 @@ Touche-à-tout de nature, je suis passionné par :
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TomNicoli&layout=compact&theme=radical&hide_border=true)
 
-## 🎵 Quand je ne code pas...
+## ⚔ Quand je ne code pas...
 
-Je explore l'univers sonore, découvre de nouvelles technologies, ou je me plonge dans les dernières recherches scientifiques. La curiosité est mon moteur !
+Je lis, je peins ou je regarde une série ❦
 
 ## 📫 Me contacter
 
@@ -65,4 +65,4 @@ Je explore l'univers sonore, découvre de nouvelles technologies, ou je me plong
 
 ---
 
-*"La sécurité, c'est un état d'esprit, pas juste une technologie"* 🔐
+*"La route est longue mais la voie est libre"* 🔐
